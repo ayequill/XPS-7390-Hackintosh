@@ -17,3 +17,4 @@ Wifi
 Sleep
 Almost everything except Audio and my battery runs out quickly	than it would on Windows
 
+YOU HAVE TO GENERATE YOUR OWN SMBIOS!
